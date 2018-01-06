@@ -1,4 +1,1 @@
-
-This app is a meme generator app. The user can take a photo using the camera app or choose a photo from the photo album. The photo is then allows the user to input text in the typical font and style that memes are created with. The finished
-product can then be shared using the activity view. Any meme which is shared is then stored in the app in a table and 
-collection view.
+This app is a meme generator app. The user can take a photo using the camera app or choose a photo from the photo album. The photo is then allows the user to input text in the typical font and style that memes are created with. The finished product can then be shared using the activity view. Any meme which is shared is then stored in the app in a table and collection view.
